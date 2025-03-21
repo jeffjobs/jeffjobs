@@ -74,7 +74,7 @@
 <h2 align="center">⚡ GitHub Stats ⚡</h2>
 
 <p align="center">
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats" target="_blank"><img align="center" width="400" height="155px" alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=JeffJobs&theme=dark&&background=0d1117&currStreakLabel=fff&ring=fc5929&sideNums=fc5929&border=true&locale=pt_BR&layout=compact&card_width=503px" /></a>
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats" target="_blank"><img align="center" width="400" height="155px" alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=jeffjobs&theme=dark&&background=0d1117&currStreakLabel=fff&ring=fc5929&sideNums=fc5929&border=true&locale=pt_BR&layout=compact&card_width=503px" /></a>
     <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img align="center" width="400" height="155" alt="Estatísticas GitHub" src="https://github-readme-stats-jeffjobs.vercel.app/api?username=JeffJobs&show_icons=true&include_all_commits=true&count_private=true&border=true&&bg_color=0d1117&title_color=fc5929&text_color=fff&icon_color=858585&locale=pt-BR&card_width=503px" /></a>
 </p>
 
