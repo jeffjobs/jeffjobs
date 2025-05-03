@@ -33,8 +33,8 @@
 <!-- Sobre mim -->
 <p align="center">
     Atualmente estou cursando a <b>formação Full Stack</b> da <b><a href="https://www.rocketseat.com.br/formacao/fullstack" target="_blank">Rocketseat</a></b> onde venho estudando as bases sólidas do desenvolvimento web: <b>HTML, CSS, JavaScript,</b> além de conceitos modernos como <b>componentização, versionamento com Git, consumo de APIs,</b> e muito mais que faz parte do <b><a href="https://roadmap.sh/full-stack?s=67f6fd1f46da096541ba755b" target="_blank">Roadmap.sh</a></b>
-    <br>
-    <br>
+</p>
+<p align="center">
     Sou apaixonado por tecnologia, <b>gosto de entender como as coisas funcionam e busco sempre aprender algo novo</b> — seja com cursos, livros ou na prática com código. No meu tempo livre, curto jogos, leitura (temas como produtividade e filosofia de vida, ficção científica), e <b>venho aprendendo inglês</b> como parte do meu <b>crescimento pessoal e profissional.</b>
 </p>
 
@@ -54,15 +54,25 @@
 <h2 align="center">🔥 Linguagens & Ferramentas 🔥</h2>
 
 <p align="center">
+    <!-- vs code -->
     <code><img height="38px" alt="Visual Studio Code" title="Visual Studio Code" src="https://img.icons8.com/color/visual-studio-code-2019.png" /></code>
+    <!-- html -->
     <code><img height="38px" alt="HTML" title="HTML" src="https://img.icons8.com/color/html-5--v1.png" /></code>
+    <!-- css -->
     <code><img height="38px" alt="CSS" title="CSS" src="https://img.icons8.com/color/css3.png" /></code>
+    <!-- js -->
     <code><img height="38px" alt="JavaScript" title="JavaScript" src="https://img.icons8.com/color/javascript--v1.png" /></code>
+    <!-- c sharp -->
     <code><img height="38px" alt="C#" title="C#" src="https://img.icons8.com/color/100/000000/c-sharp-logo.png" /></code>
+    <!-- mysql -->
     <code><img height="38px" alt="MySQL" title="MySQL" src="https://img.icons8.com/color/mysql-logo.png" /></code>
+    <!-- react.js -->
     <code><img height="38px" alt="react" title="React" src="https://img.icons8.com/color/react-native.png" /></code>
+    <!-- git -->
     <code><img height="38px" alt="Git" title="Git" src="https://img.icons8.com/color/git.png" /></code>
+    <!-- github -->
     <code><img height="38px" alt="GitHub" title="GitHub" src="https://img.icons8.com/fluency/48/github.png" /></code>
+    <!-- shell -->
     <code><img height="38px" alt="Shell Linux" title="Shell Linux" src="https://img.icons8.com/fluency/linux-terminal.png" /></code>
 </p>
 
