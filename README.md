@@ -7,21 +7,26 @@
 
 <!-- Redes Sociais -->
 <p align="center">
-    <a href="https://www.linkedin.com/in/jeff-jobs/" target="_blank"><img width="22px" alt="LinkedIn" title="LinkedIn" src="https://imgur.com/FERc4Pp.png" /></a>
+    <!-- linkedin -->
+    <a href="https://www.linkedin.com/in/jeffjobs" target="_blank"><img width="22px" alt="LinkedIn" title="LinkedIn" src="assets/linkedin.png" /></a>
     &#8287;
-    <a href="https://x.com/JeffJobsTI" target="_blank"><img width="22px" alt="X" title="X" src="https://imgur.com/UH37fX3.png" /></a>
+    <!-- instagram -->
+    <a href="https://www.instagram.com/jeff.jobs.ti" target="_blank"><img width="22px" alt="Instagram" title="Instagram" src="assets/instagram.png" /></a>
     &#8287;
-    <a href="https://pt.stackoverflow.com/users/352282/jeffjobs" target="_blank"><img width="22px" alt="Stack Overflow" title="Stack Overflow" src="https://imgur.com/9ySTsfI.png" /></a>
+    <!-- x -->    
+    <a href="https://x.com/JeffJobsTI" target="_blank"><img width="22px" alt="X" title="X" src="assets/x.png" /></a>
     &#8287;
-    <a href="https://www.goodreads.com/jeffjobs" target="_blank"><img width="22px" alt="Good Reads" title="Good Reads" src="https://imgur.com/jFhskln.png" /></a>
+    <!-- gmail -->  
+    <a href="https://mailto:jeff.jobs.ti@gmail.com" target="_blank"><img width="22px" alt="Gmail" title="Gmail" src="assets/gmail.png" /></a>
     &#8287;
-    <a href="https://dev.to/jeffjobs" target="_blank"><img width="22px" alt="DEV Community" title="DEV Community" src="https://imgur.com/TIIIp8h.png" /></a>
+    <!-- spotify -->    
+    <a href="https://open.spotify.com/user/lavishcamargo" target="_blank"><img width="22px" alt="Spotify" title="Spotify" src="assets/spotify.png" /></a>
     &#8287;
-    <a href="https://discord.gg/nCM5aUgaF4" target="_blank"><img width="22px" alt="Discord" title="Discord" src="https://imgur.com/Du0Ex9L.png" /></a>
+    <!-- discord -->
+    <a href="https://discord.gg/nCM5aUgaF4" target="_blank"><img width="22px" alt="Discord" title="Discord" src="assets/discord.png" /></a>
     &#8287;
-    <a href="https://open.spotify.com/user/lavishcamargo" target="_blank"><img width="22px" alt="Spotify" title="Spotify" src="https://imgur.com/60dgZ8O.png" /></a>
-    &#8287;
-    <a href="https://mailto:jeff.jobs.ti@outlook.com" target="_blank"><img width="22px" alt="Email Outlook" title="Email Outlook" src="https://imgur.com/IHhVk0D.png" /></a>
+    <!-- dev community -->
+    <a href="https://dev.to/jeffjobs" target="_blank"><img width="22px" alt="DEV Community" title="DEV Community" src="assets/dev-community.png" /></a>
     &#8287;
 </p>
 
