@@ -32,7 +32,7 @@
 
 <!-- Sobre mim -->
 <p align="center">
-    Atualmente estou cursando a <b>formação Full Stack</b> da <b><a href="https://www.rocketseat.com.br/formacao/fullstack" target="_blank">Rocketseat</a></b> onde venho estudando as bases sólidas do desenvolvimento web: <b>HTML, CSS, JavaScript,</b> além de conceitos modernos como <b>componentização, versionamento com Git, consumo de APIs,</b> e muito mais que faz parte do <b><a href="https://roadmap.sh/full-stack" target="_blank">Roadmap.sh</a></b>
+    Atualmente estou cursando a <b>formação Full Stack</b> da <b><a href="https://www.rocketseat.com.br/formacao/fullstack" target="_blank">Rocketseat</a></b> onde venho estudando as bases sólidas do desenvolvimento web: <b>HTML, CSS, JavaScript,</b> além de conceitos modernos como <b>componentização, versionamento com Git, consumo de APIs,</b> e muito mais que faz parte do <b><a href="https://roadmap.sh/full-stack?s=67f6fd1f46da096541ba755b" target="_blank">Roadmap.sh</a></b>
     <br>
     <br>
     Sou apaixonado por tecnologia, <b>gosto de entender como as coisas funcionam e busco sempre aprender algo novo</b> — seja com cursos, livros ou na prática com código. No meu tempo livre, curto jogos, leitura (temas como produtividade e filosofia de vida, ficção científica), e <b>venho aprendendo inglês</b> como parte do meu <b>crescimento pessoal e profissional.</b>
@@ -40,9 +40,12 @@
 
 <!-- Badges Icons GitHub -->
 <p align="center">
-    <a href="https://github.com/JeffJobs?tab=repositories&sort=stargazers" target="_blank"><img alt="Total de Stars no GitHub" title="Total de Stars no GitHub" src="https://custom-icon-badges.demolab.com/github/stars/JeffJobs?color=55960c&style=for-the-badge&labelColor=488207&logo=star" /></a>
-    <a href="https://github.com/JeffJobs?tab=followers" target="_blank"><img alt="Total de Seguidores no GitHub" title="Total de Seguidores no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/JeffJobs?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Seguindo&logoColor=white" /></a>
-    <a href="https://github.com/antonkomarev/github-profile-views-counter" target="_blank"><img alt="Total de Visitas no GitHub" title="Total de Visitas no GitHub" src="https://komarev.com/ghpvc/?username=jeffjobs&logo=eye&label=visitas&color=7c007c&logoColor=white&style=for-the-badge&abbreviated=true" /></a>
+    <!-- Stars -->
+    <a href="https://github.com/JeffJobs?tab=repositories&sort=stargazers" target="_blank"><img alt="Total de Stars no GitHub" title="Total de Stars no GitHub" src="https://custom-icon-badges.demolab.com/github/stars/jeffjobs?color=55960c&style=for-the-badge&labelColor=488207&logo=star" /></a>
+    <!-- Seguindo -->    
+    <a href="https://github.com/JeffJobs?tab=followers" target="_blank"><img alt="Total de Seguidores no GitHub" title="Total de Seguidores no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/jeffjobs?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Seguindo&logoColor=white" /></a>
+    <!-- Acessos -->    
+    <a href="https://github.com/antonkomarev/github-profile-views-counter" target="_blank"><img alt="Total de Visitas no GitHub" title="Total de Visitas no GitHub" src="https://komarev.com/ghpvc/?username=jeffjobs&logo=eye&label=acessos&color=7c007c&logoColor=white&style=for-the-badge&abbreviated=true" /></a>
 </p>
 
 ---
