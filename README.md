@@ -83,16 +83,6 @@
 
 ---
 
-<!-- Top Repositórios -->
-<h2 align="center">🏆 Top Repositórios 🏆</h2>
-
-<p align="center">
-    <a href="https://github.com/JeffJobs/30-projetos-em-30-dias" target="_blank"><img align="center" width="400px" height="150px" src="https://github-readme-stats-jeffjobs.vercel.app/api/pin/?username=jeffjobs&repo=30-projetos-em-30-dias&show_icons=true&include_all_commits=true&count_private=true&border=true&&bg_color=0d1117&title_color=fc5929&text_color=fff&icon_color=858585&card_width=503px" /></a>
-    <a href="https://github.com/JeffJobs/jeffjobs" target="_blank"><img align="center" width="400px" height="150px" src="https://github-readme-stats-jeffjobs.vercel.app/api/pin/?username=jeffjobs&repo=jeffjobs&show_icons=true&include_all_commits=true&count_private=true&border=true&&bg_color=0d1117&title_color=fc5929&text_color=fff&icon_color=858585&card_width=503px" /></a>
-</p>
-
----
-
 <!-- GitHub Conquistas -->
 <h2 align="center">🏅 Conquistas 🏅</h2>
 
