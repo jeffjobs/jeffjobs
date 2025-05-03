@@ -32,20 +32,10 @@
 
 <!-- Sobre mim -->
 <p align="center">
-    Oi, Meu nome é Jefferson Camargo, mais conhecido como Jeff.
+    Atualmente estou cursando a <b>formação Full Stack</b> da <b><a href="https://www.rocketseat.com.br/formacao/fullstack" target="_blank">Rocketseat</a></b> onde venho estudando as bases sólidas do desenvolvimento web: <b>HTML, CSS, JavaScript,</b> além de conceitos modernos como <b>componentização, versionamento com Git, consumo de APIs,</b> e muito mais que faz parte do <b><a href="https://roadmap.sh/full-stack" target="_blank">Roadmap.sh</a></b>
     <br>
-    Sou Desenvolvedor Júnior e estudante de Desenvolvimento de Sistemas
     <br>
-    na ETEC - Ensino Técnico Estadual de São Paulo.
-    <br><br>
-    Amo escrever código e explorar novas tecnologias.
-    <br>
-    No meu tempo livre, gosto de ler livros sobre tecnologia e ficção científica.
-    <br>
-    Sou entusiasta de jogos e gosto de jogar meus games favoritos.
-    Estou atualmente aprendendo
-    <br>
-    a desenvolver aplicações em C# com .NET e Windows Forms.
+    Sou apaixonado por tecnologia, <b>gosto de entender como as coisas funcionam e busco sempre aprender algo novo</b> — seja com cursos, livros ou na prática com código. No meu tempo livre, curto jogos, leitura (temas como produtividade e filosofia de vida, ficção científica), e <b>venho aprendendo inglês</b> como parte do meu <b>crescimento pessoal e profissional.</b>
 </p>
 
 <!-- Badges Icons GitHub -->
