@@ -43,7 +43,7 @@
     <!-- Stars -->
     <a href="https://github.com/JeffJobs?tab=repositories&sort=stargazers" target="_blank"><img alt="Total de Stars no GitHub" title="Total de Stars no GitHub" src="https://custom-icon-badges.demolab.com/github/stars/jeffjobs?color=55960c&style=for-the-badge&labelColor=488207&logo=star" /></a>
     <!-- Seguindo -->    
-    <a href="https://github.com/JeffJobs?tab=followers" target="_blank"><img alt="Total de Seguidores no GitHub" title="Total de Seguidores no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/jeffjobs?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Seguindo&logoColor=white" /></a>
+    <a href="https://github.com/jeffjobs?tab=followers" target="_blank"><img alt="Total de Seguidores no GitHub" title="Total de Seguidores no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/jeffjobs?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Seguindo&logoColor=white" /></a>
     <!-- Acessos -->    
     <a href="https://github.com/antonkomarev/github-profile-views-counter" target="_blank"><img alt="Total de Visitas no GitHub" title="Total de Visitas no GitHub" src="https://komarev.com/ghpvc/?username=jeffjobs&logo=eye&label=acessos&color=7c007c&logoColor=white&style=for-the-badge&abbreviated=true" /></a>
 </p>
@@ -73,7 +73,7 @@
 
 <p align="center">
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats" target="_blank"><img align="center" width="400" height="155px" alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=jeffjobs&theme=dark&&background=0d1117&currStreakLabel=fff&ring=fc5929&sideNums=fc5929&border=true&locale=pt_BR&layout=compact&card_width=503px" /></a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img align="center" width="400" height="155" alt="Estatísticas GitHub" src="https://github-readme-stats-jeffjobs.vercel.app/api?username=JeffJobs&show_icons=true&include_all_commits=true&count_private=true&border=true&&bg_color=0d1117&title_color=fc5929&text_color=fff&icon_color=858585&locale=pt-BR&card_width=503px" /></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img align="center" width="400" height="155" alt="Estatísticas GitHub" src="https://github-readme-stats-jeffjobs.vercel.app/api?username=jeffjobs&show_icons=true&include_all_commits=true&count_private=true&border=true&&bg_color=0d1117&title_color=fc5929&text_color=fff&icon_color=858585&locale=pt-BR&card_width=503px" /></a>
 </p>
 
 <p align="center">
@@ -87,7 +87,7 @@
 <h2 align="center">🏅 Conquistas 🏅</h2>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img alt="Conquistas Github" title="Conquistas Github" src="https://github-profile-trophy.vercel.app/?username=JeffJobs&theme=onestar&margin-w=3&margin-h=15&column=6&title=-Issues,-PullRequest" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img alt="Conquistas Github" title="Conquistas Github" src="https://github-profile-trophy.vercel.app/?username=jeffjobs&theme=onestar&margin-w=3&margin-h=15&column=6&title=-Issues,-PullRequest" /></a>
 </p>
 
 ---
