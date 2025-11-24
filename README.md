@@ -23,7 +23,7 @@
 
 <!-- Sobre mim -->
 <p align="center">
-    Atualmente estou cursando a <strong>Desenvolvedor Web Full-Stack</strong> da <strong><a href="https://www.udemy.com/career/full-stack-web-developer/?locale=pt_BR " target="_blank">Udemy</a></strong> onde venho estudando as bases sólidas do desenvolvimento web: <strong>HTML, CSS, JavaScript,</strong> além de conceitos modernos como <strong>componentização, versionamento com Git, consumo de APIs,</strong> e muito mais que faz parte do <strong><a href="https://roadmap.sh/full-stack?s=67f6fd1f46da096541ba755b" target="_blank">Roadmap.sh</a></em>
+    Atualmente estou cursando a <strong>Desenvolvedor Web Full-Stack</strong> da <strong><a href="https://www.udemy.com/career/full-stack-web-developer/?locale=pt_BR " target="_blank">Udemy</a></strong> onde venho estudando as bases sólidas do desenvolvimento web: <strong>HTML, CSS, JavaScript,</strong> além de conceitos modernos como <strong>componentização, versionamento com Git, consumo de APIs,</strong> e muito mais que faz parte do <strong><a href="https://roadmap.sh/full-stack?s=67f6fd1f46da096541ba755b" target="_blank">Roadmap.sh</a></strong>
 </p>
 <p align="center">
     Sou apaixonado por tecnologia, <strong>gosto de entender como as coisas funcionam e busco sempre aprender algo novo</strong> — seja com cursos, livros ou na prática com código. No meu tempo livre, curto jogos, leitura (temas como produtividade e filosofia de vida, ficção científica), e <strong>venho aprendendo Inglês por conta própria</strong> como parte do meu <strong>crescimento pessoal e profissional.</strong>
