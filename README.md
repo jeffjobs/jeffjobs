@@ -53,12 +53,14 @@
     <code><img height="38px" alt="CSS" title="CSS" src="https://img.icons8.com/color/css3.png" /></code>
     <!-- js -->
     <code><img height="38px" alt="JavaScript" title="JavaScript" src="https://img.icons8.com/color/javascript--v1.png" /></code>
-    <!-- c sharp -->
+    <!-- c sharp
     <code><img height="38px" alt="C#" title="C#" src="https://img.icons8.com/color/100/000000/c-sharp-logo.png" /></code>
+    -->
     <!-- mysql -->
     <code><img height="38px" alt="MySQL" title="MySQL" src="https://img.icons8.com/color/mysql-logo.png" /></code>
-    <!-- react.js -->
+    <!-- react.js 
     <code><img height="38px" alt="react" title="React" src="https://img.icons8.com/color/react-native.png" /></code>
+    -->
     <!-- git -->
     <code><img height="38px" alt="Git" title="Git" src="https://img.icons8.com/color/git.png" /></code>
     <!-- github -->
