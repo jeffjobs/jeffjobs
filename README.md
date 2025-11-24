@@ -10,23 +10,14 @@
     <!-- linkedin -->
     <a href="https://www.linkedin.com/in/jeffjobs" target="_blank"><img width="24px" alt="LinkedIn" title="LinkedIn" src="assets/linkedin.png" /></a>
     &#8287;
+    <!-- gmail -->  
+    <a href="https://mailto:jeff.jobs.ti@gmail.com" target="_blank"><img width="24px" alt="Gmail" title="Gmail" src="assets/gmail.png" /></a>
+    &#8287;
     <!-- instagram -->
     <a href="https://www.instagram.com/jeff.jobs.ti" target="_blank"><img width="24px" alt="Instagram" title="Instagram" src="assets/instagram.png" /></a>
     &#8287;
     <!-- x -->    
     <a href="https://x.com/JeffJobsTI" target="_blank"><img width="24px" alt="X" title="X" src="assets/x.png" /></a>
-    &#8287;
-    <!-- gmail -->  
-    <a href="https://mailto:jeff.jobs.ti@gmail.com" target="_blank"><img width="24px" alt="Gmail" title="Gmail" src="assets/gmail.png" /></a>
-    &#8287;
-    <!-- spotify -->    
-    <a href="https://open.spotify.com/user/lavishcamargo" target="_blank"><img width="24px" alt="Spotify" title="Spotify" src="assets/spotify.png" /></a>
-    &#8287;
-    <!-- discord -->
-    <a href="https://discord.gg/nCM5aUgaF4" target="_blank"><img width="24px" alt="Discord" title="Discord" src="assets/discord.png" /></a>
-    &#8287;
-    <!-- dev community -->
-    <a href="https://dev.to/jeffjobs" target="_blank"><img width="24px" alt="DEV Community" title="DEV Community" src="assets/dev-community.png" /></a>
     &#8287;
 </p>
 
