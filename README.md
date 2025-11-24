@@ -23,10 +23,10 @@
 
 <!-- Sobre mim -->
 <p align="center">
-    Atualmente estou cursando a <b>formação Full Stack</b> da <b><a href="https://www.rocketseat.com.br/formacao/fullstack" target="_blank">Rocketseat</a></b> onde venho estudando as bases sólidas do desenvolvimento web: <b>HTML, CSS, JavaScript,</b> além de conceitos modernos como <b>componentização, versionamento com Git, consumo de APIs,</b> e muito mais que faz parte do <b><a href="https://roadmap.sh/full-stack?s=67f6fd1f46da096541ba755b" target="_blank">Roadmap.sh</a></b>
+    Atualmente estou cursando a <em>Desenvolvedor Web Full-Stack</em> da <em><a href="https://www.udemy.com/career/full-stack-web-developer/?locale=pt_BR " target="_blank">Udemy</a></em> onde venho estudando as bases sólidas do desenvolvimento web: <em>HTML, CSS, JavaScript,</em> além de conceitos modernos como <em>componentização, versionamento com Git, consumo de APIs,</em> e muito mais que faz parte do <em><a href="https://roadmap.sh/full-stack?s=67f6fd1f46da096541ba755b" target="_blank">Roadmap.sh</a></em>
 </p>
 <p align="center">
-    Sou apaixonado por tecnologia, <b>gosto de entender como as coisas funcionam e busco sempre aprender algo novo</b> — seja com cursos, livros ou na prática com código. No meu tempo livre, curto jogos, leitura (temas como produtividade e filosofia de vida, ficção científica), e <b>venho aprendendo inglês</b> como parte do meu <b>crescimento pessoal e profissional.</b>
+    Sou apaixonado por tecnologia, <em>gosto de entender como as coisas funcionam e busco sempre aprender algo novo</em> — seja com cursos, livros ou na prática com código. No meu tempo livre, curto jogos, leitura (temas como produtividade e filosofia de vida, ficção científica), e <em>venho aprendendo Inglês por conta própria</em> como parte do meu <em>crescimento pessoal e profissional.</em>
 </p>
 
 <!-- Badges Icons GitHub -->
