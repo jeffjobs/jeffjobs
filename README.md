@@ -23,10 +23,10 @@
 
 <!-- Sobre mim -->
 <p align="center">
-    Atualmente estou cursando a <em>Desenvolvedor Web Full-Stack</em> da <em><a href="https://www.udemy.com/career/full-stack-web-developer/?locale=pt_BR " target="_blank">Udemy</a></em> onde venho estudando as bases sólidas do desenvolvimento web: <em>HTML, CSS, JavaScript,</em> além de conceitos modernos como <em>componentização, versionamento com Git, consumo de APIs,</em> e muito mais que faz parte do <em><a href="https://roadmap.sh/full-stack?s=67f6fd1f46da096541ba755b" target="_blank">Roadmap.sh</a></em>
+    Atualmente estou cursando a <strong>Desenvolvedor Web Full-Stack</strong> da <strong><a href="https://www.udemy.com/career/full-stack-web-developer/?locale=pt_BR " target="_blank">Udemy</a></strong> onde venho estudando as bases sólidas do desenvolvimento web: <strong>HTML, CSS, JavaScript,</strong> além de conceitos modernos como <strong>componentização, versionamento com Git, consumo de APIs,</strong> e muito mais que faz parte do <strong><a href="https://roadmap.sh/full-stack?s=67f6fd1f46da096541ba755b" target="_blank">Roadmap.sh</a></em>
 </p>
 <p align="center">
-    Sou apaixonado por tecnologia, <em>gosto de entender como as coisas funcionam e busco sempre aprender algo novo</em> — seja com cursos, livros ou na prática com código. No meu tempo livre, curto jogos, leitura (temas como produtividade e filosofia de vida, ficção científica), e <em>venho aprendendo Inglês por conta própria</em> como parte do meu <em>crescimento pessoal e profissional.</em>
+    Sou apaixonado por tecnologia, <strong>gosto de entender como as coisas funcionam e busco sempre aprender algo novo</strong> — seja com cursos, livros ou na prática com código. No meu tempo livre, curto jogos, leitura (temas como produtividade e filosofia de vida, ficção científica), e <strong>venho aprendendo Inglês por conta própria</strong> como parte do meu <strong>crescimento pessoal e profissional.</strong>
 </p>
 
 <!-- Badges Icons GitHub -->
