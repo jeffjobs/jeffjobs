@@ -66,7 +66,7 @@
     <!-- github -->
     <code><img height="38px" alt="GitHub" title="GitHub" src="https://img.icons8.com/fluency/48/github.png" /></code>
     <!-- shell -->
-    <code><img height="38px" alt="Shell Linux" title="Shell Linux" src="https://img.icons8.com/fluency/linux-terminal.png" /></code>
+    <code><img height="38px" alt="Shell Linux" title="Terminal Linux" src="https://img.icons8.com/fluency/linux-terminal.png" /></code>
 </p>
 
 ---
